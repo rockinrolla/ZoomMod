@@ -3,11 +3,12 @@
   "Authour": "Rockin Rolla",
   "Version": {
     "MajorVersion": 1,
-    "MinorVersion": 0,
-    "PatchVersion": 0,
+    "MinorVersion": 2,
+    "PatchVersion": 1,
     "Build": ""
   },
   "Description": "You guessed it!",
+  "UniqueID": "RockinMods.ZoomMod"
   "PerSaveConfigs": false,
   "EntryDll": "ZoomMod.dll"
 }
