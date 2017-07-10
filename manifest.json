@@ -8,7 +8,7 @@
     "Build": ""
   },
   "Description": "You guessed it!",
-  "UniqueID": "RockinMods.ZoomMod"
+  "UniqueID": "RockinMods.ZoomMod",
   "PerSaveConfigs": false,
   "EntryDll": "ZoomMod.dll"
 }
