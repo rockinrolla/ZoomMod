@@ -30,7 +30,7 @@ namespace RockinMods
                     Program.gamePtr.refreshWindowSettings();
                 }
 
-                Monitor.Log("Current zoom level" + Game1.options.zoomLevel.ToString(), LogLevel.Debug);
+                Monitor.Log("Current zoom level " + Game1.options.zoomLevel.ToString(), LogLevel.Trace);
             }
 
             if(e.KeyPressed == config.KeyOut)
@@ -44,7 +44,7 @@ namespace RockinMods
                     Program.gamePtr.refreshWindowSettings();
                 }
 
-                Monitor.Log("Current zoom level" + Game1.options.zoomLevel.ToString(), LogLevel.Debug);
+                Monitor.Log("Current zoom level " + Game1.options.zoomLevel.ToString(), LogLevel.Trace);
             }
         }
 
@@ -61,7 +61,7 @@ namespace RockinMods
                     Program.gamePtr.refreshWindowSettings();
                 }
 
-                Monitor.Log("Current zoom level" + Game1.options.zoomLevel.ToString(), LogLevel.Debug);
+                Monitor.Log("Current zoom level " + Game1.options.zoomLevel.ToString(), LogLevel.Trace);
             }
 
             if (e.ButtonPressed == config.ButtonOut)
@@ -75,7 +75,7 @@ namespace RockinMods
                     Program.gamePtr.refreshWindowSettings();
                 }
 
-                Monitor.Log("Current zoom level" + Game1.options.zoomLevel.ToString(), LogLevel.Debug);
+                Monitor.Log("Current zoom level " + Game1.options.zoomLevel.ToString(), LogLevel.Trace);
             }
         }
     
