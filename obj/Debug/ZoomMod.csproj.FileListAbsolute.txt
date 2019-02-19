@@ -1,0 +1,6 @@
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\bin\Debug\ZoomMod.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\bin\Debug\ZoomMod.pdb
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\obj\Debug\ZoomMod.csprojAssemblyReference.cache
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\obj\Debug\ZoomMod.csproj.CoreCompileInputs.cache
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\obj\Debug\ZoomMod.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\ZoomMod\obj\Debug\ZoomMod.pdb

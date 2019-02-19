@@ -1,14 +1,10 @@
 ﻿{
-  "Name": "Zoom Mod",
-  "Authour": "Rockin Rolla",
-  "Version": {
-    "MajorVersion": 1,
-    "MinorVersion": 2,
-    "PatchVersion": 1,
-    "Build": ""
-  },
-  "Description": "You guessed it!",
-  "UniqueID": "RockinMods.ZoomMod",
-  "PerSaveConfigs": false,
-  "EntryDll": "ZoomMod.dll"
+    "Name": "Zoom Mod",
+    "Authour": "Rockin Rolla",
+    "Version": "1.2.1",
+    "Description": "You guessed it!",
+    "UniqueID": "RockinMods.ZoomMod",
+    "EntryDll": "ZoomMod.dll",
+    "MinimumApiLevel": "2.10.2",
+    "UpdateKeys": [ "Nexus:1326" ]
 }
