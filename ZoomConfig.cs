@@ -1,22 +1,23 @@
 ﻿using Microsoft.Xna.Framework.Input;
+using StardewModdingAPI;
 
 namespace RockinMods
 {
     class ZoomConfig
     {
-        public Keys KeyIn { get; set; }
-        public Keys KeyOut { get; set; }
+        public SButton KeyIn { get; set; }
+        public SButton KeyOut { get; set; }
 
-        public Buttons ButtonIn { get; set; }
-        public Buttons ButtonOut { get; set; }
+        public SButton ButtonIn { get; set; }
+        public SButton ButtonOut { get; set; }
 
         public ZoomConfig()
         {
-            KeyIn = Keys.OemPlus;
-            KeyOut = Keys.OemMinus;
+            KeyIn = SButton.OemPlus;
+            KeyOut = SButton.OemMinus;
 
-            ButtonIn = Buttons.DPadDown;
-            ButtonOut = Buttons.DPadUp;
+            ButtonIn = SButton.DPadDown;
+            ButtonOut = SButton.DPadUp;
         }
     }
 }
